@@ -570,7 +570,7 @@ span{
     color: white;
 }
 
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
     .heading{
         min-height: 60vh;
 
@@ -650,4 +650,4 @@ span{
    
 
     
-}
+} */
